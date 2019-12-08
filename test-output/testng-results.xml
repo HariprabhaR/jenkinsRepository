@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-06T16:43:21 GMT" name="AntJenkinssuite" finished-at="2019-12-06T16:43:51 GMT" duration-ms="30372">
+    <groups>
+    </groups>
+    <test started-at="2019-12-06T16:43:21 GMT" name="Mytests" finished-at="2019-12-06T16:43:51 GMT" duration-ms="30372">
+      <class name="jenkinssample.SmokeTest">
+        <test-method signature="loginTest()[pri:0, instance:jenkinssample.SmokeTest@407a7f2a]" started-at="2019-12-06T16:43:21 GMT" name="loginTest" finished-at="2019-12-06T16:43:51 GMT" duration-ms="30324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- jenkinssample.SmokeTest -->
+    </test> <!-- Mytests -->
+  </suite> <!-- AntJenkinssuite -->
+</testng-results>
